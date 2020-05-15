@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "classify-component":"../components/classify-component/classify-component"
+  }
+}
