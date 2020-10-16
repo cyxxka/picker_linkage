@@ -1,7 +1,5 @@
 <!--picker/picker.wxml-->
 <view>
-<text>picker/picker.wxml</text>
-
  <classify-component id="classify-component" condition="{{true}}" bind:myevent="classifyEvent"></classify-component>
 
 </view>
